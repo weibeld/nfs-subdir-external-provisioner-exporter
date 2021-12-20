@@ -2,7 +2,7 @@
 
 Prometheus exporter for the [nfs-subdir-external-provisioner](https://github.com/kubernetes-sigs/nfs-subdir-external-provisioner).
 
-🐋 Docker Hub: [weibeld/nfs-subdir-external-provisioner-exporter](https://hub.docker.com/r/weibeld/nfs-subdir-external-provisioner-exporter)
+🐳 Docker Hub: [weibeld/nfs-subdir-external-provisioner-exporter](https://hub.docker.com/r/weibeld/nfs-subdir-external-provisioner-exporter)
 
 ## Description
 
